@@ -1,7 +1,14 @@
 {
-  "character_list": [
-    "Tung Tung Sahur",
-    "Tralalero Tralala",
-    "Shimpanzini Bananini"
+  "version": "1.0",
+  "last_updated": "06-2024",
+  "characters": [
+    {
+      "name": "Tung Tung Sahur",
+      "size": "1,1,1"
+    },
+    {
+      "name": "Tralalero Tralala",
+      "size": "1,1,1"
+    }
   ]
 }
