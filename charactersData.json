@@ -4,11 +4,11 @@
   "characters": [
     {
       "name": "Tung Tung Sahur",
-      "size": "1,1,1"
+      "scale": 1
     },
     {
       "name": "Tralalero Tralala",
-      "size": "1,1,1"
+      "scale": 1
     }
   ]
 }
