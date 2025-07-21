@@ -4,19 +4,43 @@
   "characters": [
     {
       "name": "Tung Tung Sahur",
-      "scale": 2
+      "scale": 1
     },
     {
       "name": "Tralalero Tralala",
-      "scale": 1.74
+      "scale": 0.911089
     },
     {
-      "name": "Capuchina Balerina",
-      "scale": 1
+      "name": "Ballerina Capuchina",
+      "scale": 0.92285
     },
     {
-      "name": "Bombardero Cocodrilo",
-      "scale": 1
+      "name": "Capuchino Asesino",
+      "scale": 0.35444
+    },
+    {
+      "name": "Expressona",
+      "scale": 0.949949
+    },
+    {
+      "name": "Tung Tung Sahur Grua",
+      "scale": 1.48811
+    },
+    {
+      "name": "Tralalero Tralala Car",
+      "scale": 1.13334
+    },
+    {
+      "name": "Balerina Capuchina Car",
+      "scale": 1.53902
+    },
+    {
+      "name": "Expressona Car",
+      "scale": 1.80996
+    },
+    {
+      "name": "Profesor School",
+      "scale": 0.69493
     }
   ]
 }
