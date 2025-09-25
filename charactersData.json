@@ -200,11 +200,11 @@
     },
      {
       "name": "Kpop Jinu",
-      "scale": 1.03715
+      "scale": 1.04578
     },
      {
       "name": "Kpop Abby",
-      "scale": 1.32373
+      "scale": 1.33859
     },
      {
       "name": "Kpop Sussy",
@@ -216,23 +216,31 @@
     },
      {
       "name": "Kpop Zoey",
-      "scale": 1.14988
+      "scale": 1.08808
     },
      {
       "name": "Kpop Bobby",
-      "scale": 1.45575
+      "scale": 1.30727
     },
      {
       "name": "Kpop Rumi",
-      "scale": 1.13874
+      "scale": 1.07844
     },
      {
       "name": "Kpop Mira",
-      "scale": 1.17585
+      "scale": 1.14183
     },
      {
       "name": "Kpop Mystery",
-      "scale": 1.04438
+      "scale": 1.03463
+    },
+     {
+      "name": "Kpop Romance",
+      "scale": 1.24777
+    },
+     {
+      "name": "Kpop Baby",
+      "scale": 1.04595
     }
   ]
 }
