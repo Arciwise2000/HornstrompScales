@@ -184,7 +184,7 @@
     },
      {
       "name": "Orange Raimbow Friends",
-      "scale": 0.01
+      "scale": 1
     },
      {
       "name": "Pakrahmatmamat",
@@ -200,47 +200,147 @@
     },
      {
       "name": "Kpop Jinu",
-      "scale": 1.04578
+      "scale": 0.818968
     },
      {
       "name": "Kpop Abby",
-      "scale": 1.33859
+      "scale": 1.04692
     },
      {
       "name": "Kpop Sussy",
-      "scale": 0.456957
+      "scale": 0.197444
     },
      {
       "name": "Kpop Derpy",
-      "scale": 1.24945
+      "scale": 0.608855
     },
      {
       "name": "Kpop Zoey",
-      "scale": 1.08808
+      "scale": 0.850622
     },
      {
       "name": "Kpop Bobby",
-      "scale": 1.30727
+      "scale": 1.01806
     },
      {
       "name": "Kpop Rumi",
-      "scale": 1.07844
+      "scale": 0.849801
     },
      {
       "name": "Kpop Mira",
-      "scale": 1.14183
+      "scale": 0.882637
     },
      {
       "name": "Kpop Mystery",
-      "scale": 1.03463
+      "scale": 0.804926
     },
      {
       "name": "Kpop Romance",
-      "scale": 1.24777
+      "scale": 0.970632
     },
      {
       "name": "Kpop Baby",
-      "scale": 1.04595
+      "scale": 0.815733
+    },
+     {
+      "name": "Kpop GwiMa",
+      "scale": 0.670065
+    },
+     {
+      "name": "Kpop Demonio1",
+      "scale": 0.924086
+    },
+     {
+      "name": "Kpop Demonio2",
+      "scale": 0.87637
+    },
+     {
+      "name": "Kpop Demonio3",
+      "scale": 0.970545
+    },
+     {
+      "name": "Kpop Demonio4",
+      "scale": 0.896045
+    },
+     {
+      "name": "Kpop Demonio5",
+      "scale": 0.922599
+    },
+     {
+      "name": "Kpop Doctor",
+      "scale": 0.798646
+    },
+     {
+      "name": "ToToTo Sahur",
+      "scale": 1.05596
+    },
+     {
+      "name": "La Cucaracha Brainrot",
+      "scale": 1.10644
+    },
+     {
+      "name": "Dug Dug Dug",
+      "scale": 0.842477
+    },
+     {
+      "name": "TicTac Sahur",
+      "scale": 0.831826
+    },
+     {
+      "name": "Mariachi Corazoni",
+      "scale": 1.36144
+    },
+     {
+      "name": "Abuela Im Cat VR",
+      "scale": 0.469793
+    },
+     {
+      "name": "Hollow Knight Hornet",
+      "scale": 0.695562
+    },
+     {
+      "name": "Profesor Normal",
+      "scale": 0.695562
+    },
+     {
+      "name": "Profesor Gimnasia",
+      "scale": 0.254466
+    },
+     {
+      "name": "DC Bubble",
+      "scale": 0.991916
+    },
+     {
+      "name": "DC Kaufmo Payaso",
+      "scale": 0.937197
+    },
+     {
+      "name": "DC Kinger",
+      "scale": 0.375458
+    },
+     {
+      "name": "DC Caine",
+      "scale": 0.984685
+    },
+     {
+      "name": "DC Jax",
+      "scale": 0.765884
+    },
+     {
+      "name": "DC Gangle",
+      "scale": 1.06402
+    },
+     {
+      "name": "DC Pomni",
+      "scale": 0.392948
+    },
+     {
+      "name": "DC Ragatha",
+      "scale": 0.523014
+    },
+     {
+      "name": "Blue Rainbow Friends",
+      "scale": 1.11097
     }
   ]
 }
