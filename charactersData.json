@@ -39,10 +39,6 @@
       "scale": 1.80996
     },
     {
-      "name": "Profesor School",
-      "scale": 0.69493
-    },
-    {
       "name": "Tatata Sahur",
       "scale": 0.775662
     },
@@ -183,10 +179,6 @@
       "scale": 0.744699
     },
      {
-      "name": "Orange Raimbow Friends",
-      "scale": 1
-    },
-     {
       "name": "Pakrahmatmamat",
       "scale": 0.760471
     },
@@ -197,6 +189,26 @@
      {
       "name": "Six Seven Sahur",
       "scale": 0.37913
+    },
+     {
+      "name": "ToToTo Sahur",
+      "scale": 1.05596
+    },
+     {
+      "name": "La Cucaracha Brainrot",
+      "scale": 1.10644
+    },
+     {
+      "name": "Dug Dug Dug",
+      "scale": 0.842477
+    },
+     {
+      "name": "TicTac Sahur",
+      "scale": 0.831826
+    },
+     {
+      "name": "Mariachi Corazoni",
+      "scale": 1.36144
     },
      {
       "name": "Kpop Jinu",
@@ -271,26 +283,6 @@
       "scale": 0.798646
     },
      {
-      "name": "ToToTo Sahur",
-      "scale": 1.05596
-    },
-     {
-      "name": "La Cucaracha Brainrot",
-      "scale": 1.10644
-    },
-     {
-      "name": "Dug Dug Dug",
-      "scale": 0.842477
-    },
-     {
-      "name": "TicTac Sahur",
-      "scale": 0.831826
-    },
-     {
-      "name": "Mariachi Corazoni",
-      "scale": 1.36144
-    },
-     {
       "name": "Abuela Im Cat VR",
       "scale": 0.469793
     },
@@ -341,6 +333,10 @@
      {
       "name": "Blue Rainbow Friends",
       "scale": 1.11097
+    },
+     {
+      "name": "Orange Raimbow Friends",
+      "scale": 1
     }
   ]
 }
