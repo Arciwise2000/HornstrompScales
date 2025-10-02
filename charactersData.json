@@ -357,6 +357,22 @@
      {
       "name": "Orange Raimbow Friends",
       "scale": 1
+    },
+     {
+      "name": "RigGeneral Paloma",
+      "scale": 0.219771
+    },
+     {
+      "name": "RigGeneral Gato Naranja",
+      "scale": 0.981758
+    },
+     {
+      "name": "RigGeneral Ardilla",
+      "scale": 0.419624
+    },
+     {
+      "name": "RigGeneral Perro Policia",
+      "scale": 0.666758
     }
   ]
 }
