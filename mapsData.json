@@ -5,6 +5,10 @@
     {
       "name": "Add empty",
       "scale": 1
+    },
+    {
+      "name": "Mapa prueba escala random",
+      "scale": 0.3454
     }
   ]
 }
