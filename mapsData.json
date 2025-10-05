@@ -7,12 +7,16 @@
       "scale": 1
     },
     {
-      "name": "Mapa prueba escala random",
-      "scale": 0.3454
+      "name": "School_Exterior",
+      "scale": 0.456579
     },
     {
       "name": "New_School",
       "scale": 0.771352
+    },
+    {
+      "name": "Big_Schoolyard",
+      "scale": 0.330252
     }
   ]
 }
