@@ -379,12 +379,20 @@
       "scale": 0.981758
     },
      {
+      "name": "RigGeneral Gato Negro",
+      "scale": 0.483059
+    },
+     {
       "name": "RigGeneral Ardilla",
       "scale": 0.419624
     },
      {
       "name": "RigGeneral Perro Policia",
       "scale": 0.666758
+    },
+     {
+      "name": "RigGeneral Perro Shiba Inu",
+      "scale": 0.282701
     }
   ]
 }
