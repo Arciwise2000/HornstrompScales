@@ -21,6 +21,14 @@
     {
       "name": "Kpop Penthouse",
       "scale": 0.740784
+    },
+    {
+      "name": "Kpop Estadio Seul",
+      "scale": 0.425842
+    },
+    {
+      "name": "Kpop Parque Naksan",
+      "scale": 1.13467
     }
   ]
 }
