@@ -35,8 +35,48 @@
       "scale": 0.851349
     },
     {
-      "name": "General Cafeteria Escolar",
+      "name": "General Cafeteria Escolar (Sin Terminar)",
       "scale": 1
+    },
+    {
+      "name": "General Forest_Map",
+      "scale": 1
+    },
+    {
+      "name": "General Avion",
+      "scale": 1
+    },
+    {
+      "name": "General GoBB_Lab",
+      "scale": 1
+    },
+    {
+      "name": "General Ciudad Lowpoly Hornstromp",
+      "scale": 1
+    },
+    {
+      "name": "General Play_Zone",
+      "scale": 1
+    },
+    {
+      "name": "General Parque",
+      "scale": 1
+    },
+    {
+      "name": "General Big_House",
+      "scale": 1
+    },
+    {
+      "name": "General House_Old",
+      "scale": 1
+    },
+    {
+      "name": "General Volcan",
+      "scale": 1
+    },
+    {
+      "name": "General City Exterior",
+      "scale": 0.44769
     }
   ]
 }
