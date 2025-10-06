@@ -39,40 +39,36 @@
       "scale": 1
     },
     {
-      "name": "General Forest_Map",
-      "scale": 1
-    },
-    {
-      "name": "General Avion",
+      "name": "General Avion (Sin Terminar)",
       "scale": 1
     },
     {
       "name": "General GoBB_Lab",
-      "scale": 1
+      "scale": 0.120333
     },
     {
       "name": "General Ciudad Lowpoly Hornstromp",
-      "scale": 1
+      "scale": 1.26952
     },
     {
       "name": "General Play_Zone",
-      "scale": 1
+      "scale": 0.217874
     },
     {
       "name": "General Parque",
-      "scale": 1
+      "scale": 2.45551
     },
     {
       "name": "General Big_House",
-      "scale": 1
+      "scale": 0.478554
     },
     {
       "name": "General House_Old",
-      "scale": 1
+      "scale": 0.464754
     },
     {
       "name": "General Volcan",
-      "scale": 1
+      "scale": 0.385022
     },
     {
       "name": "General City Exterior",
