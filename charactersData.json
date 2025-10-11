@@ -231,6 +231,22 @@
       "scale": 0.645706
     },
      {
+      "name": "Kpop Rumi",
+      "scale": 0.849801
+    },
+     {
+      "name": "Kpop Rumi (Hombre)",
+      "scale": 0.936198
+    },
+     {
+      "name": "Kpop Zoey",
+      "scale": 0.850622
+    },
+     {
+      "name": "Kpop Mira",
+      "scale": 0.882637
+    },
+     {
       "name": "Kpop Jinu",
       "scale": 0.818968
     },
@@ -247,20 +263,8 @@
       "scale": 0.608855
     },
      {
-      "name": "Kpop Zoey",
-      "scale": 0.850622
-    },
-     {
       "name": "Kpop Bobby",
       "scale": 1.01806
-    },
-     {
-      "name": "Kpop Rumi",
-      "scale": 0.849801
-    },
-     {
-      "name": "Kpop Mira",
-      "scale": 0.882637
     },
      {
       "name": "Kpop Mystery",
@@ -311,6 +315,10 @@
       "scale": 0.820721
     },
      {
+      "name": "Kpop Adolescente Mira",
+      "scale": 0.860047
+    },
+     {
       "name": "Kpop Adolescente Jinu",
       "scale": 1.00639
     },
@@ -335,6 +343,10 @@
       "scale": 0.98701
     },
      {
+      "name": "Kpop Animales Zoey",
+      "scale": 0.143205
+    },
+     {
       "name": "Kpop Animales Jinu",
       "scale": 0.81971
     },
@@ -349,6 +361,10 @@
      {
       "name": "Kpop Animales Mystery",
       "scale": 0.331892
+    },
+     {
+      "name": "Kpop Animales Romance",
+      "scale": 0.955147
     },
      {
       "name": "Kpop Autos Rumi",
