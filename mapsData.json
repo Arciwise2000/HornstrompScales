@@ -81,6 +81,10 @@
     {
       "name": "General City Exterior",
       "scale": 0.44769
+    },
+    {
+      "name": "General Prision",
+      "scale": 0.794574
     }
   ]
 }
