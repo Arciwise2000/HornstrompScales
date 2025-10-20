@@ -247,8 +247,16 @@
       "scale": 0.850622
     },
      {
+      "name": "Kpop Zoey (Hombre)",
+      "scale": 0.95149
+    },
+     {
       "name": "Kpop Mira",
       "scale": 0.882637
+    },
+     {
+      "name": "Kpop Mira (Hombre)",
+      "scale": 0.99558
     },
      {
       "name": "Kpop Jinu",
@@ -375,12 +383,32 @@
       "scale": 0.88226
     },
      {
+      "name": "Kpop Autos Zoey",
+      "scale": 0.750602
+    },
+     {
+      "name": "Kpop Autos Mira",
+      "scale": 0.864698
+    },
+     {
       "name": "Kpop Autos Jinu",
       "scale": 1.06376
     },
      {
+      "name": "Kpop LEGO Rumi",
+      "scale": 0.857814
+    },
+     {
+      "name": "Kpop LEGO Zoey",
+      "scale": 0.845338
+    },
+     {
       "name": "Kpop LEGO Mira",
       "scale": 0.876363
+    },
+     {
+      "name": "Kpop LEGO Jinu",
+      "scale": 0.923298
     },
      {
       "name": "Kpop LEGO Abby",
