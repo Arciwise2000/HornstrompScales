@@ -573,6 +573,34 @@
      {
       "name": "RigGeneral 67 Kid Horror",
       "scale": 0.77432
+    },
+     {
+      "name": "Shape Diamond (Normal)",
+      "scale": 0.724981
+    },
+     {
+      "name": "Shape Diamond (Grande)",
+      "scale": 2.02254
+    },
+     {
+      "name": "Shape Ricky Rectangle",
+      "scale": 0.625551
+    },
+     {
+      "name": "Shape Timmy Triangle",
+      "scale": 0.63178
+    },
+     {
+      "name": "Shape Sally Square",
+      "scale": 0.559851
+    },
+     {
+      "name": "Shape Ovy Oval",
+      "scale": 0.607773
+    },
+     {
+      "name": "Shape Cory Circle",
+      "scale": 0.576136
     }
   ]
 }
