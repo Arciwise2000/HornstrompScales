@@ -239,6 +239,34 @@
       "scale": 0.849801
     },
      {
+      "name": "Huggy Wuggy / Kissy Missy",
+      "scale": 1.4182
+    },
+     {
+      "name": "Player",
+      "scale": 0.286873
+    },
+     {
+      "name": "Poppy (Muñeca)",
+      "scale": 0.232503
+    },
+     {
+      "name": "Lily Lovebraids",
+      "scale": 0.841267
+    },
+     {
+      "name": "Giblet",
+      "scale": 0.315186
+    },
+     {
+      "name": "Smiling Ojos Botones",
+      "scale": 0.373556
+    },
+     {
+      "name": "Doey Doughman",
+      "scale": 1.0741
+    },
+     {
       "name": "Kpop Rumi (Hombre)",
       "scale": 0.936198
     },
@@ -577,6 +605,10 @@
      {
       "name": "RigGeneral 67 Kid Horror",
       "scale": 0.77432
+    },
+     {
+      "name": "RigGeneral Goo Goo Gaga",
+      "scale": 0.733011
     },
      {
       "name": "Shape Diamond (Normal)",
